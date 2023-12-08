@@ -43,7 +43,7 @@ arr.push(5)
 console.log(arr)
 
 const person = {
-	name: 'Brad',
+	name: 'Brian',
 }
 person.name = 'Brian'
 person.email = 'Brian@BrianShimkus.com'
